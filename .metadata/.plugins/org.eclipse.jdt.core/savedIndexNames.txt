@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\Users\Alexander\Documents\GitHub\smplStatus\.metadata\.plugins\org.eclipse.jdt.core
+3519581456.index
+3065416851.index
+2386372842.index
+1682899122.index
+831465598.index
+3779857591.index
